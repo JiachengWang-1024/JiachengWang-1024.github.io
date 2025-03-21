@@ -425,6 +425,9 @@ button {
     margin-bottom: 0.6rem;
   }
 }
+.btn:hover {
+  box-shadow: var(--redefine-box-shadow-hover);
+}
 @media (max-width: 768px) {
   .btn {
     padding: -4;
@@ -436,6 +439,10 @@ button {
     padding: -8;
     border-radius: 18px;
   }
+}
+.btn:hover {
+  transform: scaleX(1.06) scaleY(1.06);
+  box-shadow: var(--redefine-box-shadow-hover);
 }
 .btn:hover,
 .btn:focus {
