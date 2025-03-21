@@ -183,7 +183,7 @@
   font-size: 1.4rem;
   line-height: 1.5;
   color: var(--second-text-color);
-  font-family: 'Japan Wave', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif, 'Noto Sans SC', sans-serif;
+  font-family: 'JapanWave', 'YangRenDongZhuShiTi-Regular-2', 'Noto Sans SC', sans-serif;
   margin: 0;
 }
 @media (max-width: 768px) {
