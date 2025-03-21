@@ -459,7 +459,7 @@ button {
   clear: both;
 }
 .markdown-body {
-  font-family: 'Japan Wave', 'YRDZST', sans-serif;
+  font-family: 'Geist Mono', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif, sans-serif;
   font-size: 16px;
 }
 .markdown-body blockquote {
@@ -585,7 +585,7 @@ button {
 .markdown-body .h4,
 .markdown-body .h5,
 .markdown-body .h6 {
-  font-family: 'Japan Wave', 'YRDZST', sans-serif;
+  font-family: 'Geist Mono', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif, sans-serif;
   color: var(--second-text-color);
   line-height: 1.5;
 }
@@ -969,7 +969,7 @@ pre,
 pre,
 code {
   line-height: 1.5 !important;
-  font-family: 'Japan wave', 'Geist Mono', Courier, monospace !important;
+  font-family: 'Geist Mono', 'Geist Mono', Courier, monospace !important;
 }
 pre.mermaid {
   background-color: var(--background-color);
@@ -1337,7 +1337,7 @@ pre .deletion {
   border-radius: 50px;
 }
 .article-copyright-info-container {
-  font-family: 'Japan Wave', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif;
+  font-family: 'Geist Mono', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif;
   position: relative;
   width: 100%;
   box-sizing: border-box;
@@ -1770,7 +1770,7 @@ pre .deletion {
   line-height: 1;
   color: var(--first-text-color);
   transform: translateY(1px);
-  font-family: 'Japan Wave';
+  font-family: 'Geist Mono';
 }
 .navbar-container .navbar-content .logo-title h1 {
   margin: 0;
@@ -2611,7 +2611,7 @@ html.is-animating .scroll-progress-bar {
   width: 100%;
   font-size: 0.92rem;
   box-sizing: border-box;
-  font-family: 'Japan Wave', 'YRDZST', 'Noto Sans', 'Noto Sans SC', sans-serif;
+  font-family: 'Geist Mono', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif, 'Noto Sans', 'Noto Sans SC', sans-serif;
 }
 .post-toc-wrap .post-toc .toc-title {
   font-size: 0.8rem;
@@ -4879,7 +4879,7 @@ html.is-animating .transition-fade-down {
   font-size: 1.4rem;
   line-height: 1.5;
   color: var(--second-text-color);
-  font-family: 'Japan Wave', 'YRDZST', 'Noto Sans SC', sans-serif;
+  font-family: 'Geist Mono', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Heiti SC', 'WenQuanYi Micro Hei', sans-serif, 'Noto Sans SC', sans-serif;
   margin: 0;
 }
 @media (max-width: 768px) {
@@ -5458,7 +5458,7 @@ html.is-animating .transition-fade-down {
   color: var(--second-text-color);
   font-family: 'Chillax-Variable', sans-serif;
   text-align: center;
-  font-family: 'Japan Wave';
+  font-family: 'Geist Mono';
 }
 .home-sidebar-container .sidebar-links .site-info .announcement {
   font-size: 0.9rem;
