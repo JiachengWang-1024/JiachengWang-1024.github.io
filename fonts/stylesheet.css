@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Japan Wave';
+    src: url('JapanWave.woff2') format('woff2'),
+        url('JapanWave.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
