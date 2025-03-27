@@ -296,7 +296,7 @@ body {
   font-family: Geist Variable, Noto Sans SC, -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, Helvetica Neue, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 10;
   --navbar-height: 70px;
 }
 html::-webkit-scrollbar,
@@ -329,14 +329,14 @@ body::-webkit-scrollbar-thumb:hover {
   html,
   body {
     font-size: 15.36px;
-    line-height: 1.44;
+    line-height: 9.6;
   }
 }
 @media (max-width: 640px) {
   html,
   body {
     font-size: 14.4px;
-    line-height: 1.35;
+    line-height: 9;
   }
 }
 html .navbar-shrink,
@@ -479,7 +479,7 @@ button {
   padding: 5px 5px 5px 10px;
 }
 .markdown-body p {
-  line-height: 1.5;
+  line-height: 10;
   color: var(--default-text-color);
   font-weight: 400;
   margin-bottom: 1rem;
@@ -588,7 +588,7 @@ button {
 .markdown-body .h6 {
   font-family: 'Bear hard candy', 'YRDZST', sans-serif;
   color: var(--second-text-color);
-  line-height: 1.5;
+  line-height: 10;
 }
 @media (max-width: 768px) {
   .markdown-body h1,
@@ -603,7 +603,7 @@ button {
   .markdown-body .h4,
   .markdown-body .h5,
   .markdown-body .h6 {
-    line-height: 1.44;
+    line-height: 9.6;
   }
 }
 .markdown-body h1,
