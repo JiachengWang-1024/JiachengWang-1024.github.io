@@ -461,7 +461,7 @@ button {
 }
 .markdown-body {
   font-family: 'Bear hard candy', 'YRDZST', sans-serif;
-  font-size: 16px;
+  font-size: 40px;
 }
 .markdown-body blockquote {
   box-sizing: border-box;
@@ -712,7 +712,7 @@ button {
   transition-delay: 0s, 0s, 0s, 0s, 0s, 0s;
   transition-duration: 0.2s, 0.2s, 0.2s, 0.2s, 0.2s, 0.2s;
   transition-timing-function: ease, ease, ease, ease, linear, linear;
-  margin: 1rem auto 1rem;
+  margin: 1rem 0 1rem;
 }
 .markdown-body del.mask {
   text-decoration: none !important;
@@ -1517,7 +1517,7 @@ pre .deletion {
   min-height: 90vh;
 }
 .home-banner-container .content .description {
-  font-size: 2.8rem;
+  font-size: 4.8rem;
   line-height: 1.2;
   color: var(--home-banner-text-color);
 }
@@ -1528,15 +1528,15 @@ pre .deletion {
   font-weight: 350;
 }
 .home-banner-container .content .description p i {
-  font-size: 1.5rem;
+  font-size: 4.5rem;
   font-style: normal;
 }
 .home-banner-container .content .description p span {
-  font-size: 1.575rem;
+  font-size: 4.725000000000001rem;
 }
 @media (max-width: 768px) {
   .home-banner-container .content .description {
-    font-size: 2.52rem;
+    font-size: 4.32rem;
   }
 }
 .image-viewer-container {
